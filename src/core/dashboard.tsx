@@ -36,9 +36,9 @@ export type CardState<DataType> = {
 
 const KaizenCore: NextPage = () => {
     return (
-        <Layout className="min-h-screen flex">
+        <div className="min-h-screen flex">
             sd
-        </Layout>
+        </div>
     );
 }
 

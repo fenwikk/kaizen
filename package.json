@@ -1,5 +1,8 @@
 {
-  "name": "kaizen",
+  "name": "@fenwikk/kaizen",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/fenwikk"
+  },
   "version": "0.0.1",
   "description": "",
   "scripts": {
